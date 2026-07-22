@@ -1,4 +1,4 @@
-This repository contains my daily tasks completed as part of my AI & ML Internship.
+This repository contains my daily learning tasks, practice programs, and project work completed throughout the internship.
 Contents
 - Day 1 - Environment Setup
 - Day 2 - Python Basics
